@@ -234,7 +234,7 @@ export const seedInitialData = (): void => {
       The next time you walk through a forest, pay attention. Look for the signs of magic that Miyazaki taught us to see. The rustling leaves, the patterns of light, the ancient trees—they're all speaking, if only we would listen.
       `,
       categoryId: createdCategories[0].id,
-      imageUrl: 'https://images.unsplash.com/photo-1513836279014-a89f7a76ae86',
+      imageUrl: 'https://otakuusamagazine.com/wp-content/uploads/2018/09/totoro-theaters3.jpg',
       featured: true
     },
     {
@@ -273,7 +273,7 @@ export const seedInitialData = (): void => {
       These small, spectral creatures continue to embody an essential message: the health of our forests is directly tied to our own well-being, and the spirits are always watching.
       `,
       categoryId: createdCategories[1].id,
-      imageUrl: 'https://images.unsplash.com/photo-1509316975850-ff9c5deb0cd9',
+      imageUrl: 'https://static1.cbrimages.com/wordpress/wp-content/uploads/2024/05/princess-mononoke-kodama-figure.jpg?q=70&fit=crop&w=1140&h=&dpr=1',
       featured: false
     },
     {
@@ -316,7 +316,7 @@ export const seedInitialData = (): void => {
       The next time you watch a Ghibli film, pay special attention to the rain. In those thousands of meticulously drawn droplets, you'll find the dedication that makes Studio Ghibli's work timeless.
       `,
       categoryId: createdCategories[2].id,
-      imageUrl: 'https://images.unsplash.com/photo-1615729947596-a598e5de0ab3',
+      imageUrl: 'https://w0.peakpx.com/wallpaper/632/978/HD-wallpaper-studio-ghibli-ghibli-winter.jpg',
       featured: true
     },
     {
@@ -357,7 +357,7 @@ export const seedInitialData = (): void => {
       Like many Ghibli characters, No-Face exists in the gray area between good and evil, reminding us that sometimes the most interesting stories happen in the in-between spaces.
       `,
       categoryId: createdCategories[3].id,
-      imageUrl: 'https://images.unsplash.com/photo-1518495973542-4542c06a5843',
+      imageUrl: 'https://widowcranky.wordpress.com/wp-content/uploads/2017/05/img_0444.jpg',
       featured: false
     }
   ];
