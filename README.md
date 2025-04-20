@@ -1,59 +1,72 @@
-<<<<<<< HEAD
-
-## How can I edit this code?
-
-There are several ways of editing your application.
 
 
-Changes made via Lovable will be committed automatically to this repo.
+# Ghibli Scribbles ✨🍃
 
-**Use your preferred IDE**
+A whimsical blog project inspired by the magical world of Studio Ghibli, built with modern web technologies and a touch of animated charm.
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
 
-Follow these steps:
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+![Screenshot 2025-04-20 175227](https://github.com/user-attachments/assets/17f3218a-4e20-44cd-899b-3c86a3cac30f)
+![Screenshot 2025-04-20 175241](https://github.com/user-attachments/assets/97a77da7-0e08-4d72-8772-f4c2a57a9156)
+![Screenshot 2025-04-20 175302](https://github.com/user-attachments/assets/89101a55-7c3b-4e71-bb42-533525aae1cb)
 
-# Step 3: Install the necessary dependencies.
-npm i
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
+## Features 🌟
+- **Studio Ghibli-themed UI** with custom animations and illustrations
+- Responsive design that works on all devices
+- Themed components using shadcn-ui
+- Markdown-powered blog posts
+- Easy customization with Tailwind CSS
+- Dark/Light mode toggle (optional - add if implemented)
+
+## Installation 🛠️
+
+1. **Clone the repository**
+```bash
+git clone https://github.com/your-username/Ghibli-Scribbles.git
+cd Ghibli-Scribbles
+```
+
+2. **Install dependencies**
+```bash
+npm install
+```
+
+3. **Set up environment variables**  
+Create a `.env` file based on `.env.example` (if applicable)
+
+4. **Start the development server**
+```bash
 npm run dev
 ```
 
-**Edit a file directly in GitHub**
+## Usage 📖
+- Write blog posts in Markdown format in `content/posts/`
+- Customize styles in `src/styles/`
+- Modify components in `src/components/`
+- Add new Ghibli-themed illustrations in `public/`
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+## Technologies Used 🧙‍♂️
+- **Vite** - Next-gen frontend tooling
+- **React** - JavaScript library for building UI
+- **TypeScript** - Type-safe JavaScript
+- **Tailwind CSS** - Utility-first CSS framework
+- **shadcn-ui** - Beautifully designed components
+- **Studio Ghibli API** (optional - add if used)
 
-**Use GitHub Codespaces**
-
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
-
-## What technologies are used for this project?
-
-This project is built with:
-
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
+## Contributing 🤝
+We welcome contributions from fellow Ghibli fans!  
+1. Fork the project
+2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
 
 
-=======
-# Ghibli-Scribbles
->>>>>>> 9f7e4075c5784860956214b170eee9e1130c47a7
+
+---
+
+**Made with 💖 and a sprinkle of Ghibli magic by Laddu Kumar Roy**  
+[Howl's Moving Castle](https://ghiblicollection.com/) inspired loading animations recommended!
