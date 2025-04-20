@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 ## How can I edit this code?
 
@@ -53,3 +54,6 @@ This project is built with:
 - Tailwind CSS
 
 
+=======
+# Ghibli-Scribbles
+>>>>>>> 9f7e4075c5784860956214b170eee9e1130c47a7
